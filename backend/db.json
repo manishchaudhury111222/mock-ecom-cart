@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Aurora Wireless Headphones",
+      "price": 79.99,
+      "image": "",
+      "desc": "Crisp sound, 30h battery"
+    },
+    {
+      "id": "p2",
+      "name": "Nimbus Smartwatch",
+      "price": 129.95,
+      "image": "",
+      "desc": "Heart-rate, sleep tracking"
+    },
+    {
+      "id": "p3",
+      "name": "Lumen Desk Lamp",
+      "price": 39.5,
+      "image": "",
+      "desc": "Warm/cool dimmable light"
+    },
+    {
+      "id": "p4",
+      "name": "Vega Thermal Mug",
+      "price": 19.99,
+      "image": "",
+      "desc": "Keeps drinks hot for 6h"
+    },
+    {
+      "id": "p5",
+      "name": "Atlas Backpack",
+      "price": 59,
+      "image": "",
+      "desc": "Laptop friendly, water-resistant"
+    }
+  ],
+  "cart": []
+}
